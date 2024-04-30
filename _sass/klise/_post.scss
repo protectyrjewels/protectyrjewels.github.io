@@ -49,7 +49,7 @@
 
   time {
     position: relative;
-    margin-right: 1.5em;
+    margin-right: 1.25em;
 
     &::after {
       background: $light;
@@ -64,6 +64,10 @@
 
   span[itemprop="author"] {
     border-bottom: 1px dotted $light;
+  }
+
+  span[itemprop="reading-time"] {
+    margin-right: 1.25rem;
   }
 }
 

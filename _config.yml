@@ -89,3 +89,8 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-postfiles
+
+reading_time:
+  second_plural: "sec"
+  minute_singular: "min"
+  minute_plural: "min"
